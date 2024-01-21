@@ -93,7 +93,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         style={{ color: theme.tertiary }}
                     >
                         {/* <h6 style={{ color: theme.primary }}>{headerData.title}</h6> */}
-                        <h1>{headerData.name}</h1>
+                        <h1 style={{ color: theme.nameColor }}>{headerData.name}</h1>
                         <Typed
                             strings={[
                                 'Backend Developer',
@@ -102,7 +102,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"
-                            style={{ color: theme.primary, fontSize: '20px' }}
+                            style={{ color: theme.skillColor, fontSize: '20px' }}
                             loop
                         />
                         <p>{headerData.desciption}</p>

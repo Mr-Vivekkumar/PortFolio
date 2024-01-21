@@ -9,6 +9,8 @@ export const theLightTheme = {
     secondary: '#ffffff',
     tertiary: '#0f1419',
     buttonColor: '#0F1419',
+    skillColor: '#1D9BF0',
+    nameColor:"#0f1419",
     contactsimg: contactsImage
 }
 
@@ -20,5 +22,7 @@ export const theDarkTheme = {
     quaternaryLight: '#8b98a5',
     tertiary: '#EFF3F4',
     buttonColor: '#8B98A5',
+    skillColor: '#EFF3F4',
+    nameColor:"rgb(0, 0, 0)",
     contactsimg: contactsImage
 }
