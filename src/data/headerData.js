@@ -8,5 +8,5 @@ export const headerData = {
   
   //imagebw: "https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg",
   resumePdf:
-    "https://drive.google.com/file/d/1fYDvA7YbNi6mCr6YvOmvMmlCvBudVXMl/view?usp=sharing",
+    "https://drive.google.com/file/d/1F7akTIcf9dp1EwYpFsAGmjPTYGuPe0yr/view?usp=sharing",
 };
