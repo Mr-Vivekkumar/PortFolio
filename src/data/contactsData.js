@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'vrszonnett@gmail.com',
-    phone: '+919867859543',
+    phone: '+917400481401',
     address: 'Indira Nagar, Wagle Industrial Estate Thane West 400604',
     github: 'https://github.com/Mr-Vivekkumar',
     facebook: 'https://www.facebook.com/profile.php?id=100007378573495',
